@@ -1,0 +1,42 @@
+h1{
+    font-size: 30px;
+    color: #a32a2a;
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    color: #ba840e;
+    text-align: center;
+}
+.pcenter
+{
+text-align: center;
+list-style-position: inside;   
+}
+
+.pcenter a{
+    font-size: 20px;
+    margin: 5px 10px;
+    text-decoration: none;
+}
+
+h2.mor {
+    font-size: 30px;
+    color: #3e0782;
+    text-align: center;
+}
+h2.solaDayali
+{
+    font-size: 20px;
+    text-align:left;
+}
+
+ul{
+    list-style-type: none;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
